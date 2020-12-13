@@ -3,6 +3,7 @@
 ### Markdown
 #### Will I no longer write documents in word?
 
+Below is a code block that I wish to keep as an example while I continue learning
 ```markdown
 Syntax highlighted code block
 
