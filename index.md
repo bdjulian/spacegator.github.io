@@ -1,8 +1,7 @@
 ## Welcome to my website? At least this way I no longer need to squat a domain.
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Will I no longer write documents in word?
 
 ```markdown
 Syntax highlighted code block
